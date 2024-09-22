@@ -1,1 +1,2 @@
-# Code-examples
+## Code-examples
+The file Machine_learning_project is in the language Python and was developed by a fellow student and me within a practical course last semester. This was the final project, which we created in two weeks after learning several basic machine learning algorithms. It does not include very involved algorithms but was rather to show that we can apply the learned ones. The 20newsgroups dataset that we studied is a text dataset where the task is to classify newsgroup contributions correctly.
